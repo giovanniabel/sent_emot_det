@@ -1,1 +1,5 @@
-# sent_emot_det
+# Sentence Emotion Detection
+
+Project Process Diagram
+
+![image](Diagram.jpg)
